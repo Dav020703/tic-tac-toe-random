@@ -1,4 +1,4 @@
-// Taxtak, Xaxacox('X' kam 'O' 
+// Taxtak, Xaxacox('X' kam 'O' )
 let board = ["", "", "", "", "", "", "", "", ""];
 let currentPlayer = "X";
 let gameOver = false;
